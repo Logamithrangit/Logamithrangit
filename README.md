@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Logamithrangit
-- 👀 I’m interested in ... developing a OS
+- 👋 Hi, I’m @ Logamithran
+- 👀 I’m interested in developing a OS
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...on a python master
+  
   
 
 <!---
